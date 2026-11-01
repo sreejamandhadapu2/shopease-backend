@@ -1,0 +1,23 @@
+
+# Git files
+.git
+.gitignore
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
